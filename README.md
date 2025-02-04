@@ -27,7 +27,7 @@ $ conda env create -f environment.yml
 $ conda activate synthdistill  
 ```
 
-In our knoeledge distillation framework, we use StyleGAN as a pretrained face generator network. Therefore, you need to clone StyleGAN repository and download its model weights:
+In our knowledge distillation framework, we use StyleGAN as a pretrained face generator network. Therefore, you need to clone StyleGAN repository and download its model weights:
 ```sh
 $ git clone https://github.com/NVlabs/stylegan3
 ```
